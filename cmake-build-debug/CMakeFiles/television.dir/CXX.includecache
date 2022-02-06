@@ -1302,6 +1302,20 @@ QtGui/qkeysequence.h
 QtGui/qevent.h
 -
 
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/television_autogen/EWIEGA46WW/moc_windowtv.cpp
+memory
+-
+../../../windowtv.h
+C:/Users/Meresse/Documents/Clion/television/windowtv.h
+QtCore/qbytearray.h
+-
+QtCore/qmetatype.h
+-
+
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/television_autogen/mocs_compilation.cpp
+EWIEGA46WW/moc_windowtv.cpp
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/television_autogen/EWIEGA46WW/moc_windowtv.cpp
+
 C:/Users/Meresse/Documents/Clion/television/main.cpp
 QApplication
 -

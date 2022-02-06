@@ -40,8 +40,8 @@ public slots:
     void channel0(){lineEdit->setText("КАНАЛ 0");};
 
 
-    void volumeDown(){};
-    void volumeUp(){};
+    void volumeDown(){progressBar->setValue(progressBar->value() - 10);};
+    void volumeUp(){progressBar->setValue(progressBar->value() + 10);};
 
 
     void previousChannel(){lineEdit->setText("КАНАЛ " + QString::number(previous(lineEdit->text()[6].digitValue() - 1)));};
