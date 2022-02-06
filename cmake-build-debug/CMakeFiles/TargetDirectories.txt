@@ -1,0 +1,4 @@
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/CMakeFiles/television.dir
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Meresse/Documents/Clion/television/cmake-build-debug/CMakeFiles/television_autogen.dir
